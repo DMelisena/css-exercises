@@ -1,0 +1,13 @@
+.pinkbg{
+    background-color: pink;
+
+  }
+  #sizeid{
+    color:blue;
+    font-size: 36px;
+  }
+  #backid{
+    color:black;
+    font-size: 24px;
+    background-color: lightgreen;
+  }
