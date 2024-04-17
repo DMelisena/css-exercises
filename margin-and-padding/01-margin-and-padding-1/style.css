@@ -1,3 +1,4 @@
+only change the padding and exercise
 body {
   max-width: 600px;
   margin: 0 auto;
@@ -7,15 +8,15 @@ body {
   background: pink;
   border: 3px solid blue;
   /* CHANGE ME */
-  padding: 0px;
-  margin: 0px;
+  padding: 40px;
+  margin: 30px;
 }
 
 .two {
   background: lightblue;
   border: 3px solid purple;
   /* CHANGE ME */
-  margin-bottom: 0px;
+  margin-bottom: 50px;
 }
 
 .three {
@@ -23,6 +24,7 @@ body {
   border: 3px solid brown;
   width: 200px;
   /* CHANGE ME */
-  padding: 0px;
-  margin-left: 0px;
+  padding: 40px;
+  margin-left: auto;
+  /*This will gift the left margin all the remaining spaces*/
 }
